@@ -5,3 +5,4 @@ nvcc hello.cu -o hello
 
 nvidia-smi
 
+nvcc --version
